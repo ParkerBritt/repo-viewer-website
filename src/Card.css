@@ -1,7 +1,24 @@
 .card
 {
+    text-decoration: none;
+    color: inherit;
+    display: block;
     background-color: #171822;
     padding: 10px;
     border-radius: 40px;
-    max-width: 200px;
+    max-width: 500px;
+    min-width: 250px;
+}
+
+.card-link {
+    text-decoration: none;
+    color: inherit;
+    display: block;
+}
+
+.card-description
+{
+    margin: 20px 20px;
+    text-align:justify;  
+    text-justify:auto;
 }
