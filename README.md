@@ -12,3 +12,12 @@ A website to display github repos
 
 > [!NOTE]
 > Early work in progress
+
+<h2>Deployment</h2>  
+Requirements
+
+- podman-compose
+
+```sh
+podman-compose up -d
+```
