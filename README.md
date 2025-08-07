@@ -7,7 +7,7 @@
 
 <br>
 <div align="center">
-A website to display github repos
+A website to display github repos for a specific user in a grid layout.
 </div>
 
 > [!NOTE]
@@ -21,3 +21,4 @@ Requirements
 ```sh
 podman-compose up -d
 ```
+
