@@ -10,6 +10,8 @@
 A website to display github repos for a specific user in a grid layout.
 </div>
 
+<br><img width="2288" height="1010" alt="Screenshot_20250809_220130" src="https://github.com/user-attachments/assets/eb0cc7ca-859a-44e1-910e-550c1dfb2419" />
+
 > [!NOTE]
 > Early work in progress
 
@@ -21,4 +23,5 @@ Requirements
 ```sh
 podman-compose up -d
 ```
+
 
